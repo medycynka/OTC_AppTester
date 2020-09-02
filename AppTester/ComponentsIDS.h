@@ -1,6 +1,6 @@
 #pragma once
 
-// Testing Frame ids
+// Components IDs for main frame (TestingFrame)
 struct TF_IDS {
 	TF_IDS(wxWindowID main_frame_id, int dialgos_count) {
 		MAIN_FRAME_ID = main_frame_id;
@@ -147,7 +147,7 @@ struct TF_IDS {
 	wxWindowID BR_DIR_PICKER_ID;
 };
 
-// Dialog ids
+// Components IDs for dialog window (DialogFrame)
 struct DF_IDS {
 	DF_IDS(wxWindowID dialog_id, size_t bitmaps) {
 		DIALOG_ID = dialog_id;
