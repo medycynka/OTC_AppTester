@@ -1,0 +1,17 @@
+test_id 1 First 50 app test
+w_width 1280
+w_height 720
+time_limit 30
+dialogs_count 4
+z-order_frq 0.2
+showdialog_frq 0
+refresh_frq 2
+tab_change_frq 2
+button_press_frq 5
+scroll_frq 2
+select_list_frq 2
+check_list_frq 2
+write_frq 2
+radio_list_frq 2
+gauge_frq 2
+outfile D:/Praca/Projekt/AppTester/AppTester/results/testapp3
